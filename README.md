@@ -1,4 +1,4 @@
-# Spotifypagina
+# Spotify Página
 
 ## ✅ Sobre o projeto
 [spotifypagina.com](https://projeto-spotify-seven.vercel.app/)
